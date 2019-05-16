@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CreditCard
 {
@@ -16,7 +16,7 @@ namespace CreditCard
         }
         public string GetNumber()
         {
-            return this.number;
+            return this.balance;
         }
         public CreditCard(String number)
         {
