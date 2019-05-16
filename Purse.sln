@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money", "Money\Money.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{48C9A9C0-B247-4B5B-BD68-AB26CF1DE8DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{794D34AF-4AF2-499F-97C9-0BF51530EFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,15 +25,26 @@ Global
 		{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{48C9A9C0-B247-4B5B-BD68-AB26CF1DE8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{48C9A9C0-B247-4B5B-BD68-AB26CF1DE8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48C9A9C0-B247-4B5B-BD68-AB26CF1DE8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48C9A9C0-B247-4B5B-BD68-AB26CF1DE8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{794D34AF-4AF2-499F-97C9-0BF51530EFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794D34AF-4AF2-499F-97C9-0BF51530EFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794D34AF-4AF2-499F-97C9-0BF51530EFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794D34AF-4AF2-499F-97C9-0BF51530EFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> feature/businesscard
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {4912A58D-1887-4507-8D31-55CA07BB6AC0}
+=======
+		SolutionGuid = {F6E351DF-2600-47C5-B867-10245D01CB45}
+>>>>>>> feature/businesscard
 	EndGlobalSection
 EndGlobal
